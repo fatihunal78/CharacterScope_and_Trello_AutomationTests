@@ -8,8 +8,8 @@ from selenium import webdriver
 from selenium.webdriver import ActionChains
 
 #pre-defined parameters
-KEY = "836682262a6e7339f61e6d60791a9810"
-TOKEN = "ead227704687b377ba549a6f6898339589a9f545a1c679f0bf05de0a32505755"
+KEY = "***" #fill in with your own key 
+TOKEN = "***" #fill in with your own token
 CHROME_DRIVER_PATH= r'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver.exe'
 USERNAME="fatihunal@gmail.com"
 PASSWORD="FatihUnal123"
